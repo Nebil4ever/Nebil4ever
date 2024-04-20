@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My webpage</title>
+</head>
+<body>
+    <div align="center">
+        <a href="https://www.facebook.com" target="_blank">    
+    <img  align="center" width="400" border="40px" style="border-radius: 5px; border-color: gray;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWSlBIwsv3KKTfqMpL5Xud_bloBf08yHAaVj6rmIgY0A">
+        </a>
+    </div>
+    <p  align="center">
+        <a href="https://www.facebook.com" target="_self">FACEBOOK</a>
+        IS THE BEST WAY TO BE DUMB                                                                                                                                                        
+    </p>
+    <br>
+    <h3>What is the color of logo of facebook?</h3>
+    <ul>
+        <li>BLUE</li>
+        <li>RED</li>
+    </ul>
+    <br>
+
+    <table border="13" width="500">
+        <tr bgcolor="GREEN" align="center">
+            <th width="100">BLUE</th>
+            <th width="100">Right</th>
+        </tr>
+
+        <tr bgcolor="red" align="center">
+            <td>RED</td>
+            <td>Wrong</td>
+        </tr>
+    </table>
+</body>
+</html>
